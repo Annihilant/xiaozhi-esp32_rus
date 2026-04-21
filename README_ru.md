@@ -4,9 +4,9 @@
 
 ## Вступление
 
-👉 [Human: Give AI a camera vs AI: Instantly finds out the owner hasn't washed hair for three days【bilibili】](https://www.bilibili.com/video/BV1bpjgzKEhd/)
+👉 [Человек: Дал ИИ камеру. ИИ: Мгновенно определил, что хозяин не мыл голову три дня.【bilibili】](https://www.bilibili.com/video/BV1bpjgzKEhd/)
 
-👉 [Handcraft your AI girlfriend, beginner's guide【bilibili】](https://www.bilibili.com/video/BV1XnmFYLEJN/)
+👉 [Самодельная ИИ подружка, руководство новичка【bilibili】](https://www.bilibili.com/video/BV1XnmFYLEJN/)
 
 As a voice interaction entry, the XiaoZhi AI chatbot leverages the AI capabilities of large models like Qwen / DeepSeek, and achieves multi-terminal control via the MCP protocol.
 
