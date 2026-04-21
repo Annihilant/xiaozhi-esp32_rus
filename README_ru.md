@@ -8,13 +8,13 @@
 
 👉 [Самодельная ИИ подружка, руководство новичка【bilibili】](https://www.bilibili.com/video/BV1XnmFYLEJN/)
 
-As a voice interaction entry, the XiaoZhi AI chatbot leverages the AI capabilities of large models like Qwen / DeepSeek, and achieves multi-terminal control via the MCP protocol.
+Чат-бот XiaoZhi с искусственным интеллектом использует возможности больших моделей, таких как Qwen / DeepSeek, для голосового взаимодействия и обеспечивает многотерминальное управление с помощью протокола MCP.
 
 <img src="docs/mcp-based-graph.jpg" alt="Control everything via MCP" width="320">
 
-## Version Notes
+## О версиях
 
-The current v2 version is incompatible with the v1 partition table, so it is not possible to upgrade from v1 to v2 via OTA. For partition table details, see [partitions/v2/README.md](partitions/v2/README.md).
+Текущая версия v2 несовместима с таблицей разделов v1, поэтому обновление с версии v1 до версии v2 через OTA невозможно. Подробную информацию о таблице разделов см. в [partitions/v2/README.md](partitions/v2/README.md).
 
 All hardware running v1 can be upgraded to v2 by manually flashing the firmware.
 
