@@ -16,7 +16,7 @@
 
 Текущая версия v2 несовместима с таблицей разделов v1, поэтому обновление с версии v1 до версии v2 через OTA невозможно. Подробную информацию о таблице разделов см. в [partitions/v2/README.md](partitions/v2/README.md).
 
-All hardware running v1 can be upgraded to v2 by manually flashing the firmware.
+Все устройства с версией v1 можно обновить до версии v2, вручную перепрошив прошивку.
 
 The stable version of v1 is 1.9.2. You can switch to v1 by running `git checkout v1`. The v1 branch will be maintained until February 2026.
 
